@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /author/
+Disallow: /category/
+Disallow: /hello-world/
+Disallow: /thank-you/
+
+Sitemap: https://reliablegreen.ca/sitemap.xml
